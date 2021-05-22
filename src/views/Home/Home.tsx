@@ -82,9 +82,9 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading style={{'textShadow': '1px 1px 10px #D71F55'}} as="h1" size="xl" mb="24px" color="tertiary">
-          {TranslateString(576, 'BALL Finance')}
+          {TranslateString(576, 'Sportz Finance')}
         </Heading>
-        <Text style={{ 'textShadow': '1px 1px 10px #006AB6' }} color="text" fontSize="16px" bold>{TranslateString(578, 'Top 3 best DEFI app on Binance Smart Chain.')}</Text>
+        <Text style={{ 'textShadow': '1px 1px 10px #006AB6' }} color="text" fontSize="16px" bold>{TranslateString(578, 'Where Sports Meet DeFi')}</Text>
       </Hero>
       <div>
         <Cards>

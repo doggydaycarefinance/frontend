@@ -73,11 +73,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/slothfinance/',
+        href: 'https://github.com/SportzFinance/',
       },
       {
         label: 'Docs',
-        href: 'https://docs.slothfinance.com/',
+        href: 'https://docs.sportz.finance/',
       },
       // {
       //   label: 'Blog',
