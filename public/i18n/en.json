@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "BALL Finance"
+        "text": "Sportz Finance"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "BALL betting through DeFi."
+        "text": "Where Sports Meet DeFi"
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake EGG to earn new tokens."
+        "text": "Stake BALL to earn new tokens."
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest BALL rewards for you!"
+        "text": "\u2b50\ufe0f You can claim your rewards by clicking the 'Harvest' button!"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for EGG, or keep for your collection!"
+        "text": "Trade in for BALL, or keep for your collection!"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback BALL"
+        "text": "LPs are PERMANENTLY locked! You can still harvest BALL rewards."
       }
     },
     {
